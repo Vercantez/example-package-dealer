@@ -4,6 +4,8 @@ To build this example package:
     cd example-package-dealer
     swift run
 
+First change
+
 # License
 
                                  Apache License
